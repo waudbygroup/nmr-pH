@@ -6,7 +6,7 @@
   "samples": [
     {
       "sample_id": "waudby_2024_comprehensive_10pctD2O",
-      "D2O_percent": 10,
+      "solvent": "10pct_D2O",
       "authors": [
         {
           "name": "Chris Waudby",
